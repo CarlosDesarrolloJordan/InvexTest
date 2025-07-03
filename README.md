@@ -43,7 +43,7 @@ POST /auth/login
 Request Body
 {
   "username": "admin",
-  "password": "admin"
+  "password": "1234"
 }
 
 Response
