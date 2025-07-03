@@ -20,8 +20,8 @@ API RESTful para la gestión de empleados, desarrollada con **Spring Boot**, **S
 1. **Clona el repositorio:**
 
 ```bash
-git clone https://github.com/usuario/employee-api.git
-cd employee-api
+git clone https://github.com/CarlosDesarrolloJordan/InvexTest.git
+cd InvexTest
 
 
 Run project:
